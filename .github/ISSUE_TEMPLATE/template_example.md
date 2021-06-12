@@ -11,8 +11,10 @@ assignees: ''
 ```json
 {
     "title": "",
+    "screenshot": "",
     "url": "",
     "avatar": "",
-    "description": ""
+    "description": "",
+    "keywords": ""
 }
 ```
